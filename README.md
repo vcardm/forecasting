@@ -1,6 +1,6 @@
 # Forecasting
-Car Sales Forecasting using ARIMA
-Overview
+# Car Sales Forecasting using ARIMA
+# Overview
 This project focuses on forecasting car sales using the ARIMA (AutoRegressive Integrated Moving Average) time series modeling technique. Accurate sales predictions are crucial for automotive businesses to optimize inventory, plan marketing strategies, and make informed decisions. This project leverages historical sales data to create an ARIMA model for forecasting future car sales and evaluates its performance using RMSE (Root Mean Square Error).
 
 Ensure you have the following prerequisites installed:
